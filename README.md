@@ -146,6 +146,6 @@ Project ini dibuat untuk keperluan assessment PT Kledo Berhati Nyaman.
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Syahril Rachman
 **Company:** PT Kledo Berhati Nyaman  
 **Date:** March 2026 
